@@ -1,0 +1,13 @@
+D:\Dojo_Assignments\C#\OOP\singly_linked_list\bin\Debug\netcoreapp3.1\singly_linked_list.exe
+D:\Dojo_Assignments\C#\OOP\singly_linked_list\bin\Debug\netcoreapp3.1\singly_linked_list.deps.json
+D:\Dojo_Assignments\C#\OOP\singly_linked_list\bin\Debug\netcoreapp3.1\singly_linked_list.runtimeconfig.json
+D:\Dojo_Assignments\C#\OOP\singly_linked_list\bin\Debug\netcoreapp3.1\singly_linked_list.runtimeconfig.dev.json
+D:\Dojo_Assignments\C#\OOP\singly_linked_list\bin\Debug\netcoreapp3.1\singly_linked_list.dll
+D:\Dojo_Assignments\C#\OOP\singly_linked_list\bin\Debug\netcoreapp3.1\singly_linked_list.pdb
+D:\Dojo_Assignments\C#\OOP\singly_linked_list\obj\Debug\netcoreapp3.1\singly_linked_list.csprojAssemblyReference.cache
+D:\Dojo_Assignments\C#\OOP\singly_linked_list\obj\Debug\netcoreapp3.1\singly_linked_list.AssemblyInfoInputs.cache
+D:\Dojo_Assignments\C#\OOP\singly_linked_list\obj\Debug\netcoreapp3.1\singly_linked_list.AssemblyInfo.cs
+D:\Dojo_Assignments\C#\OOP\singly_linked_list\obj\Debug\netcoreapp3.1\singly_linked_list.csproj.CoreCompileInputs.cache
+D:\Dojo_Assignments\C#\OOP\singly_linked_list\obj\Debug\netcoreapp3.1\singly_linked_list.dll
+D:\Dojo_Assignments\C#\OOP\singly_linked_list\obj\Debug\netcoreapp3.1\singly_linked_list.pdb
+D:\Dojo_Assignments\C#\OOP\singly_linked_list\obj\Debug\netcoreapp3.1\singly_linked_list.genruntimeconfig.cache
